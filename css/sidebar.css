@@ -1,0 +1,52 @@
+.support-menu * {margin: 0;
+                padding: 0;
+                outline: none;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;}
+div.support-menu {margin: 25px;
+                width: 250px;}
+.support-menu nav.vertical {border-radius: 4px;
+                            box-shadow: 0 0 10px #8c2a00da;
+                            overflow: hidden;
+                            text-align: center;}
+.support-menu nav.vertical > ul {list-style-type: none;}
+.support-menu nav.vertical > ul > li {display: block;}
+.support-menu nav.vertical > ul > li > a:hover {background-color: #8c2b00ed;
+                                                cursor: pointer;}
+.support-menu nav.vertical > ul > li > div {background-color: rgb(255,255,255);}
+.support-menu nav.vertical > ul > li > div > ul {list-style-type: none;}
+.support-menu nav.vertical > ul > li > div > ul > li > a {background-color: rgb(255,255,255);
+                                                        border-bottom: 1px solid #8c2a00da;
+                                                        color: #333331;
+                                                        display: block;
+                                                        font-size: 1.1rem;
+                                                        padding: 10px 0;
+                                                        text-decoration: none;
+                                                        text-transform: capitalize;
+                                                        transition: all 0.15s linear;}
+.support-menu nav.vertical > ul > li > div > ul > li:hover > a {background-color: #8c2b00ed;
+                                                                color: rgb(255,255,255)}
+
+p{
+    text-align: justify;
+}
+
+/* .image{
+    margin-top: 20px;
+    border-right: 3px solid rgb(130, 113, 102);
+    height: 450px;
+} */
+
+
+p{
+    font-family: Ebrima;
+}
+body{
+    color: rgb(61, 61, 61);
+    background-color: fbf9ca5c;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: Ebrima;
+}

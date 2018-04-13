@@ -1,0 +1,51 @@
+.heading{
+    text-transform: uppercase;
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+    letter-spacing: .5rem;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content{
+    margin-top: 25px;
+    text-align: justify;
+}
+
+.head{
+    background-color: #8c2b00ed;
+    padding-left: 10px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px; 
+}
+
+.first{
+    padding: 10px;
+}
+
+.second{
+    padding: 20px;
+}
+
+.third{
+    padding: 20px;
+}
+
+.success{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+p{
+    font-family: Ebrima;
+}
+body{
+    color: rgb(61, 61, 61);
+    background-color: fbf9ca5c;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: Ebrima;
+}

@@ -1,0 +1,9 @@
+.award{
+    padding: 5%;
+}
+
+@media (max-width: 575.98px) { 
+    .example-gallery{
+        margin-top: 10%
+    }
+ }
