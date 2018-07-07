@@ -21,7 +21,7 @@
 <header>
     <nav class="navbar navbar-light bg-light top">
         <span class="navbar-text">
-            <a href="index.html"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
+            <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
         </span>
         <p>
           <span>
@@ -34,8 +34,8 @@
                     <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
               </div>
               <div class="col-12">
-                  <a href="index.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
-                  <a href="career.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
+                  <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
+                  <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
                   <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
               </div>
               </div>
@@ -47,20 +47,20 @@
         <div class="collapse justify-content-center navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   ABOUT US
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.html">ABOUT THE FOUNDATION</a>
+                  <a class="dropdown-item" href="about.php">ABOUT THE FOUNDATION</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="vision.html">VISION AND MISSION</a>
+                  <a class="dropdown-item" href="vision.php">VISION AND MISSION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="team.html">OUR TEAM</a>
+                  <a class="dropdown-item" href="team.php">OUR TEAM</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="partner.html">PARTNER</a>
+                  <a class="dropdown-item" href="partner.php">PARTNER</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">ANNUAL REPORT</a>
                 </div>
@@ -70,13 +70,13 @@
                 OUR WORK
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="education.html">EDUCATION</a>
+                  <a class="dropdown-item" href="education.php">EDUCATION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="liveli.html">LIVELIHOOD</a>
+                  <a class="dropdown-item" href="liveli.php">LIVELIHOOD</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="advoca.html">ADVOCACY</a>
+                  <a class="dropdown-item" href="advoca.php">ADVOCACY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="pre.html">PERSPECTIVE ON ELA</a>
+                  <a class="dropdown-item" href="pre.php">PERSPECTIVE ON ELA</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -84,9 +84,9 @@
                 GET INVOLVED
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="career.html">CAREER</a>
+                  <a class="dropdown-item" href="career.php">CAREER</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="career.html">VOLUNTEER</a>
+                  <a class="dropdown-item" href="career.php">VOLUNTEER</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -116,11 +116,11 @@
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">VIDEO GALLERY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="award.html">AWARDS AND RECOGNITIONS</a>
+                  <a class="dropdown-item" href="award.php">AWARDS AND RECOGNITIONS</a>
                 </div>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">CONTACT US</a>
+              <a class="nav-link" href="contact.php">CONTACT US</a>
             </li>     
           </ul>
         </div>
@@ -193,19 +193,19 @@
             <img class="rounded-circle" src="image/E.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Education</h2>
             <p>Education today has become the most crucial element for personal and social development. It is the driving force behind social and gender equality and has proven to</p>
-            <p><a class="btn btn-secondary" href="education.html" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="education.php" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/L.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Livelihood</h2>
             <p>Livelihood is effective in improving the living conditions and economic status of the marginalized communities. It is a means of making a living and helps them evolve.</p>
-            <p><a class="btn btn-secondary" href="liveli.html" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="liveli.php" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/A.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Advocacy</h2>
             <p>The core of advocacy is the understanding of the capacity to make changes in the policies and its practice, which caters to change on a larger scale. Advocacy thus helps</p>
-            <p><a class="btn btn-secondary" href="advoca.html" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="advoca.php" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
       </div>
@@ -226,7 +226,7 @@
               <p>She acquired a job in the retail sector after completing her graduation. Today, she is a self-employed and independent girl and runs her own beauty parlour.
   
                 </p>
-              <p><a class="btn btn-lg btn-primary" href="success.html" role="button">READ MORE</a></p>
+              <p><a class="btn btn-lg btn-primary" href="success.php" role="button">READ MORE</a></p>
             </div>         
            </div>
           <div class="carousel-item">
@@ -234,7 +234,7 @@
                 <img class="rounded-circle" src="image/Rahul.jpg" alt="Generic placeholder image" width="130" height="130">
               <h1>Rahul</h1>
               <p>He enrolled in the B. Sc. Program in IGNOU. Presently he has taken up professional photography and has developed a team of his own.</p>
-              <p><a class="btn btn-lg btn-primary" href="success.html" role="button">READ MORE</a></p>
+              <p><a class="btn btn-lg btn-primary" href="success.php" role="button">READ MORE</a></p>
             </div>          
           </div>
        </div>
@@ -255,17 +255,17 @@
             <div class="row">
             	<div class="col-6">
                     <ul class="pages">
-                        <li><a href="education.html">education</a></li>
-                        <li><a href="liveli.html">Livelihood</a></li>
-                        <li><a href="advoca.html">Advocacy</a></li>
-                        <li><a href="pre.html">PERSPECTIVE on ela</a></li>
+                        <li><a href="education.php">education</a></li>
+                        <li><a href="liveli.php">Livelihood</a></li>
+                        <li><a href="advoca.php">Advocacy</a></li>
+                        <li><a href="pre.php">PERSPECTIVE on ela</a></li>
                     </ul>
                 </div>
             	<div class="col-6 bug">
                     <ul class="list">
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="contact.html">Contacts</a></li>
-                        <li><a href="team.html">Our Team</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="contact.php">Contacts</a></li>
+                        <li><a href="team.php">Our Team</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                     </ul>
                 </div>
@@ -298,7 +298,7 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="design">
-               <a href="index.html"> Back to top</a> 
+               <a href="index.php"> Back to top</a> 
             </div>
           </div>
         </div>
