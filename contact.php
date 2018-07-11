@@ -4,39 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>AWARDS    |Kanshiram Welfare Foundation</title>
+    <title>CONTACT    |Kanshiram Welfare Foundation</title>
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
        <!-- Bootstrap core CSS -->
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
+    
        <!-- Custom styles for this template -->
+       <link href="css/carousel.css" rel="stylesheet">
        <link href="css/home.css" rel="stylesheet">
-       <link href="css/award.css" rel="stylesheet">
-
 </head>
 <body>
     <header>
         <nav class="navbar navbar-light bg-light top">
             <span class="navbar-text">
-                <a href="index.html"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
+                <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
             </span>
             <p>
               <span>
                 Will Be Updated Soon
               </span>
             </p>
-        <div class="row short">   
-		<div class="col-12">
-              <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
-              <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
-        </div>
-        <div class="col-12">
-            <a href="index.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
-            <a href="career.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
-            <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
-        </div>
-        </div>
+            <div class="row short">   
+              <div class="col-12">
+                        <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
+                        <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
+                  </div>
+                  <div class="col-12">
+                      <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
+                      <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
+                      <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
+                  </div>
+                  </div>
         </nav>
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom" style="background-color: #8c2b00ed" id="stick">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,20 +44,20 @@
             <div class="collapse justify-content-center navbar-collapse" id="navbarTogglerDemo01">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.html"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="index.php"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       ABOUT US
                   </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="about.html">ABOUT THE FOUNDATION</a>
+                      <a class="dropdown-item" href="about.php">ABOUT THE FOUNDATION</a>
                       <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="vision.html">VISION AND MISSION</a>
+                      <a class="dropdown-item" href="vision.php">VISION AND MISSION</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="team.html">OUR TEAM</a>
+                      <a class="dropdown-item" href="team.php">OUR TEAM</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="partner.html">PARTNER</a>
+                      <a class="dropdown-item" href="partner.php">PARTNER</a>
                         <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">ANNUAL REPORT</a>
                     </div>
@@ -68,13 +67,13 @@
                     OUR WORK
                   </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="education.html">EDUCATION</a>
+                      <a class="dropdown-item" href="education.php">EDUCATION</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="liveli.html">LIVELIHOOD</a>
+                      <a class="dropdown-item" href="liveli.php">LIVELIHOOD</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="advoca.html">ADVOCACY</a>
+                      <a class="dropdown-item" href="advoca.php">ADVOCACY</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="pre.html">PERSPECTIVE ON ELA</a>
+                      <a class="dropdown-item" href="pre.php">PERSPECTIVE ON ELA</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -82,9 +81,9 @@
                     GET INVOLVED
                   </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="career.html">CAREER</a>
+                      <a class="dropdown-item" href="career.php">CAREER</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="career.html">VOLUNTEER</a>
+                      <a class="dropdown-item" href="career.php">VOLUNTEER</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -114,35 +113,30 @@
                         <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">VIDEO GALLERY</a>
                         <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="award.html">AWARDS AND RECOGNITIONS</a>
+                      <a class="dropdown-item" href="award.php">AWARDS AND RECOGNITIONS</a>
                     </div>
                 </li>  
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">CONTACT US</a>
+                  <a class="nav-link" href="contact.php">CONTACT US</a>
                 </li>     
               </ul>
             </div>
           </nav>   
     </header>
-    <div style="color:#8c2a00; text-align:center; margin-top:20px;">
-      <h4>AWARDS</h4>
-    </div>
-    <div class="row justify-content-center award">
-      <div class="col-md-8">
-          <div class="row">
-              <a href="image/image0.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 example-gallery">
-                  <img src="image/image0.jpeg" class="img-fluid">
-              </a>
-              <a href="image/image1.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 example-gallery">
-                  <img src="image/image1.jpeg" class="img-fluid">
-              </a>
-              <a href="image/image2.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 example-gallery">
-                  <img src="image/image2.jpeg" class="img-fluid">
-              </a>
-          </div>
-
-      </div>
-  </div>
+    <div class="container contact">
+   <div class="row"> 
+        <div class="col-md-4 col-sm-4 contact-detail" style="display:block;">
+            <h2>CONTACT</h2>
+            <p><span class="icon"> ADDRESS: </span>H.No.-1359, Block-E, Ground Floor Jahangir Puri, Delhi-110033</p>
+            <p><span class="icon"> Email Address: </span><a style="color:white;" href="mailto:kanshiramwelfarefoundation@gmail.com">kanshiramwelfarefoundation@gmail.com</a></p>
+            <p><span class="icon"> TELEPHONE: </span> 011-27634206</p>
+            <a class="btn btn-lg" style="background-color:aliceblue; color:#aa3d3d;" href="https://goo.gl/KKgJ5C" target="_blank">Get Direction</a>
+        </div>
+        <div class="col-md-8 col-sm-8 ">
+            <div id="map"></div>   
+        </div>
+   </div>
+</div>
 
 <div class="container-fluid" style="background-color: #3c3d41;">
     <footer class="footer-bs">
@@ -157,17 +151,17 @@
             <div class="row">
             	<div class="col-6">
                     <ul class="pages">
-                        <li><a href="education.html">education</a></li>
-                        <li><a href="liveli.html">Livelihood</a></li>
-                        <li><a href="advoca.html">Advocacy</a></li>
-                        <li><a href="pre.html">PERSPECTIVE on ela</a></li>
+                        <li><a href="education.php">education</a></li>
+                        <li><a href="liveli.php">Livelihood</a></li>
+                        <li><a href="advoca.php">Advocacy</a></li>
+                        <li><a href="pre.php">PERSPECTIVE on ela</a></li>
                     </ul>
                 </div>
             	<div class="col-6 bug">
                     <ul class="list">
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="contact.html">Contacts</a></li>
-                        <li><a href="team.html">Our Team</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="contact.php">Contacts</a></li>
+                        <li><a href="team.php">Our Team</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                     </ul>
                 </div>
@@ -200,7 +194,7 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="design">
-               <a href="index.html"> Back to top</a> 
+               <a href="index.php"> Back to top</a> 
             </div>
           </div>
         </div>
@@ -209,7 +203,22 @@
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
- <script src="script/gallery.js"></script>
+
+    <script>
+        function initMap() {
+          var uluru = {lat: 28.732753, lng: 77.175045};
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 20,
+            center: uluru
+          });
+          var marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+          });
+        }
+      </script>
+      <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJrszfpOrF5BCH6Iw60xOnx3pbRO2891U&callback=initMap" type="text/javascript">
+      </script>  
 </body>
 </html>

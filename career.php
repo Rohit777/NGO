@@ -142,13 +142,10 @@ the organization and the learners.</p>
       </div>    
     </div>
 </div>
-<div class="container">
-    <p><a style="margin:5% 40%; background-color: #8c2b00ed;border: #8c2b00ed;" class="btn btn-lg btn-primary" href="mailto:kanshiramwelfarefoundaation@gmail.com" role="button">APPLY</a></p>
-</div>
 
 
-<!-- <div>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Apply</button>
+<div>
+<center><button style="margin:5% 40%; background-color: #8c2b00ed;border: #8c2b00ed;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Apply</button></center>
 
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -160,26 +157,27 @@ the organization and the learners.</p>
         </button>
       </div>
       <div class="modal-body">
-        <form>
+        <form action="apply.php" method="POST">
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">Recipient:</label>
-            <input type="text" class="form-control" id="recipient-name" placeholder="example@gmail.com">
+            <input type="text" name="Email" class="form-control" id="recipient-name" placeholder="example@gmail.com">
           </div>
           <div class="form-group">
             <label for="message-text" class="col-form-label">Message:</label>
-            <textarea class="form-control" id="message-text"></textarea>
+            <textarea name="Message" class="form-control" id="message-text"></textarea>
           </div>
+          <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <input type="submit" class="btn btn-primary" name="send" value="Send Message">
+      </div>
         </form>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Send</button>
-      </div>
+      
     </div>
   </div>
 </div>
 
-</div> -->
+</div>
 
 <div class="container-fluid" style="background-color: #3c3d41;">
     <footer class="footer-bs">

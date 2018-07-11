@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Advocacy  |Kanshiram Welfare Foundation</title>
-
+    <title>About  |Kanshiram Welfare Foundation</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
     <link href="css/home.css" rel="stylesheet">
     <link href="css/sidebar.css" rel="stylesheet">
     <link href="css/heading.css" rel="stylesheet">
@@ -18,7 +18,7 @@
   <header>
     <nav class="navbar navbar-light bg-light top" style="background: #eac08a !important;">
         <span class="navbar-text">
-            <a href="index.html"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
+            <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
         </span>
         <p>
           <span>
@@ -31,8 +31,8 @@
                     <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
               </div>
               <div class="col-12">
-                  <a href="index.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
-                  <a href="career.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
+                  <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
+                  <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
                   <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
               </div>
               </div>
@@ -44,20 +44,20 @@
         <div class="collapse justify-content-center navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">HOME<span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   ABOUT US
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.html">ABOUT THE FOUNDATION</a>
+                  <a class="dropdown-item" href="about.php">ABOUT THE FOUNDATION</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="vision.html">VISION AND MISSION</a>
+                  <a class="dropdown-item" href="vision.php">VISION AND MISSION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="team.html">OUR TEAM</a>
+                  <a class="dropdown-item" href="team.php">OUR TEAM</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">PARTNER</a>
+                  <a class="dropdown-item" href="partner.php">PARTNER</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">ANNUAL REPORT</a>
                 </div>
@@ -67,13 +67,13 @@
                 OUR WORK
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="education.html">EDUCATION</a>
+                  <a class="dropdown-item" href="education.php">EDUCATION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="liveli.html">LIVELIHOOD</a>
+                  <a class="dropdown-item" href="liveli.php">LIVELIHOOD</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="advoca.html">ADVOCACY</a>
+                  <a class="dropdown-item" href="advoca.php">ADVOCACY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">PERSPECTIVE ON ELA</a>
+                  <a class="dropdown-item" href="#">PERSPECTIVES ON ELA</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -81,9 +81,9 @@
                 GET INVOLVED
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="career.html">CAREER</a>
+                  <a class="dropdown-item" href="career.php">CAREER</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="career.html">VOLUNTEER</a>
+                  <a class="dropdown-item" href="career.php">VOLUNTEER</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -94,6 +94,8 @@
                   <a class="dropdown-item" href="#">REPORTS</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">BOOKLETS</a>
+                    <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="#">TRAINNING MODULES</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">PAPERS</a>
                     <div class="dropdown-divider"></div>
@@ -113,41 +115,42 @@
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">VIDEO GALLERY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="award.html">AWARDS AND RECOGNITIONS</a>
+                  <a class="dropdown-item" href="award.php">AWARDS AND RECOGNITIONS</a>
                 </div>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">CONTACT US</a>
+              <a class="nav-link" href="contact.php">CONTACT US</a>
             </li>     
           </ul>
         </div>
       </nav>   
 </header>
-<div class="container" style="margin-bottom:100px;">
+<div class="container" style="margin-bottom:150px;">
    <div class="row">
       <div class="support-menu col-2.5">
           <nav class="vertical">
           <ul><li> 
           <div><ul>
-          <li><a href="education.html">education</a></li>
-          <li><a href="liveli.html">Livelihood</a></li>
-          <li><a href="advoca.html">Advocacy</a></li>
-          <li><a href="pre.html">Perspective on ELA</a></li>
+          <li><a href="about.php">About the foundation</a></li>
+          <li><a href="vision.php">Vision and Mission</a></li>
+          <li><a href="team.php">our team</a></li>
+          <li><a href="#">partner</a></li>
+          <li><a href="#">annual report</a></li>
           </ul></div></li>
           </ul></nav></div>
     <div class="content col-md-8">
-        <h3 class="head">Advocacy</h3>
-        <p>
-            The core of advocacy is the understanding of the capacity to make changes in the policies and its practice, 
-            which caters to change on a larger scale. Advocacy thus helps bridge the gap between the agency and the beneficiary. 
-            It provides the agencies with the opportunity and the platform to convey their message, through means of campaigning, 
-            to the communities and increase awareness about their rights and provisions.</br>
-            Through advocacy the marginalized communities and the society at large can be made aware, responsible and can be made 
-            capable towards the problems existing in the society, especially which are relevant to them, like gender and caste based 
-            discrimination, prevalent social, educational and economic inequality and many such issues.</br>
-            Our focus is to engage at policy level in our areas of work, namely Education and Livelihood, for a larger impact on the 
-            society by creating aware and informed citizens.    
-        </p>        
+<p>
+    Kanshiram Welfare Foundation is a research and action based non-profit organization established in 2008.
+    It aims to extend the opportunities for marginalized section across various social groups within the society.
+    It primarily works in the areas of Education, Livelihood and Advocacy. The Foundation is guided by the underlying 
+    philosophy that the basic principle of social development is to create an enabling environment for society to develop 
+    their full potential, lead productive lives, exercise their choices and participate in decision-making processes. With
+    focus on the marginalized section of the society, without any discriminatory or biased perception, the Foundation has 
+    adopted the methodology of community based work. Working with the community, it has successfully been able to initiate
+    a discussion about the need and benefit of education and create an engagement with the youth for livelihood opportunities
+    and related skill-based training. Simultaneously, the Foundation has also been actively engaged in the Advocacy for girl 
+    child education. 
+</p>
     </div>    
 </div>
 </div>
@@ -165,17 +168,17 @@
             <div class="row">
             	<div class="col-6">
                     <ul class="pages">
-                        <li><a href="education.html">education</a></li>
-                        <li><a href="liveli.html">Livelihood</a></li>
-                        <li><a href="advoca.html">Advocacy</a></li>
-                        <li><a href="pre.html">PERSPECTIVE on ela</a></li>
+                        <li><a href="education.php">education</a></li>
+                        <li><a href="liveli.php">Livelihood</a></li>
+                        <li><a href="advoca.php">Advocacy</a></li>
+                        <li><a href="pre.php">PERSPECTIVE on ela</a></li>
                     </ul>
                 </div>
             	<div class="col-6 bug">
                     <ul class="list">
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="contact.html">Contacts</a></li>
-                        <li><a href="team.html">Our Team</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="contact.php">Contacts</a></li>
+                        <li><a href="team.php">Our Team</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                     </ul>
                 </div>
@@ -210,7 +213,7 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
             <div class="design">
-               <a href="index.html"> Back to top</a> 
+               <a href="index.php"> Back to top</a> 
             </div>
           </div>
         </div>
