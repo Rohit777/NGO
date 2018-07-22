@@ -16,7 +16,7 @@
 <body>
     
     <header>
-        <nav class="navbar navbar-light bg-light top" style="background: #eac08a !important;">
+        <nav class="navbar navbar-light bg-light top">
             <span class="navbar-text">
                 <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
             </span>
@@ -28,7 +28,8 @@
             <div class="row short">   
               <div class="col-12">
                         <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
-                        <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
+                        <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>
+                        <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:#0077b5"></i></a>              
                   </div>
                   <div class="col-12">
                       <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>

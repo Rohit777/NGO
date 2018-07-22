@@ -28,7 +28,8 @@
             <div class="row short">   
               <div class="col-12">
                         <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
-                        <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
+                        <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>
+                        <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:#0077b5"></i></a>              
                   </div>
                   <div class="col-12">
                       <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
@@ -128,7 +129,7 @@
             <!-- Three columns of text below the carousel -->
             <div class="row first">
                 <div class="col-lg-6 team" align="center">
-                  <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter1" src="image\Mr. Harish Kumar.jpg" data-toggle="modal" data-target="#exampleModalCenter" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)" >
+                  <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter1" src="image\Mr. Harish Kumar.jpg" data-toggle="modal" data-target="#exampleModalCenter" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)" >
                   <div class="modal fade" id="exampleModalCenter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                       <div class="modal-content">
@@ -168,7 +169,7 @@
                 </div><!-- /.col-lg-6 -->
 
                 <div class="col-lg-6 team" align="center">
-                  <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter2" src="image\Mr. Lalit Kumar.JPG" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                  <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter2" src="image\Mr. Lalit Kumar.JPG" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                   <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                       <div class="modal-content">
@@ -203,7 +204,7 @@
 
                 <div class="row second">
                 <div align="center"  class="col-lg-3 team">
-                  <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter3" src="image\Dr. Babita Udbhav.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                  <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter3" src="image\Dr. Babita Udbhav.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                   <div class="modal fade" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                       <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                         <div class="modal-content">
@@ -234,7 +235,7 @@
                 </div><!-- /.col-lg-3 -->
 
                 <div align="center" class="col-lg-3 team">
-                  <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter4" src="image\Ms. Punam Chandra.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                  <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter4" src="image\Ms. Punam Chandra.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                   <div class="modal fade" id="exampleModalCenter4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                       <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                         <div class="modal-content">
@@ -265,7 +266,7 @@
               </div><!-- /.col-lg-3 -->
 
             <div align="center" class="col-lg-3 team">
-                <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter5" src="image\Ms. Jyotsna Sonal.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter5" src="image\Ms. Jyotsna Sonal.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                 <div class="modal fade" id="exampleModalCenter5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                       <div class="modal-content">
@@ -296,7 +297,7 @@
                   </div><!-- /.col-lg-3 -->
 
                   <div align="center" class="col-lg-3 team">
-                    <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter6" src="image\Vidya Lakshmi.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                    <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter6" src="image\Vidya Lakshmi.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                 <div class="modal fade" id="exampleModalCenter6" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                       <div class="modal-content">
@@ -327,7 +328,7 @@
 
             <div class="row third">
                 <div align="center" class="col-lg-3 team">
-                    <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter@" src="image\Mr. Joel Philip Thomas.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                    <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter@" src="image\Mr. Joel Philip Thomas.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                 <div class="modal fade" id="exampleModalCenter@" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                       <div class="modal-content">
@@ -347,7 +348,8 @@
                                         approach in primary sections of Chennai Corporation Schools”. He had worked as Senior
                                         Research Fellow in BITS PILANI. Apart from this, he has substantial teaching background as
                                         Assistant Professor in various colleges of Chennai such as Patrician College of Arts and Science,
-                                        Mar Gregorios College and D.R.B.C.C.C. Hindu College. He also holds a Life Time
+                                        Mar Gregorios College and D.R.B.C.C.C. Hindu College. He is Assistant Professor  in Guru Nanak College 
+                                        Chennai in the department of Social Work. He also holds a Life Time
                                         Membership of National Association of Professional Social Workers in India.
                                     </p>
                                   </div>
@@ -362,7 +364,7 @@
 
 
                 <div align="center" class="col-lg-3 team">
-                    <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter7" src="image\Mr. Firoz Khan.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                    <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter7" src="image\Mr. Firoz Khan.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                     <div class="modal fade" id="exampleModalCenter7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                           <div class="modal-content">
@@ -396,7 +398,7 @@
                 </div><!-- /.col-lg-3 -->
 
                 <div align="center" class="col-lg-3 team">
-                    <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter8" src="image\Mr. Shishir Kumar Singh.jpeg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                    <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter8" src="image\Mr. Shishir Kumar Singh.jpeg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                     <div class="modal fade" id="exampleModalCenter8" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                           <div class="modal-content">
@@ -430,7 +432,7 @@
                 </div><!-- /.col-lg-3 -->
 
                 <div align="center" class="col-lg-3 team">
-                    <img class="rounded-circle" data-toggle="modal" data-target="#exampleModalCenter9" src="image\Mr. Rocky Paotei.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
+                    <img class="rounded-circle grabbing" data-toggle="modal" data-target="#exampleModalCenter9" src="image\Mr. Rocky Paotei.jpg" alt="Generic placeholder image" width="140" height="140" style="border:2px solid rgb(170, 52, 52)">
                     <div class="modal fade" id="exampleModalCenter9" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg" role="document">
                           <div class="modal-content">

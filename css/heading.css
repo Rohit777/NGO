@@ -12,6 +12,8 @@
     text-align: justify;
 }
 
+.grabbing {cursor: -webkit-grabbing; cursor: grabbing;}
+
 .head{
     background-color: #8c2b00ed;
     padding-left: 10px;

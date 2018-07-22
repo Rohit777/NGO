@@ -27,11 +27,12 @@
         <div class="row short">   
           <div class="col-12">
                     <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
-                    <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>        
+                    <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>
+                    <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:#0077b5"></i></a>              
               </div>
               <div class="col-12">
-                  <a href="index.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
-                  <a href="career.html" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
+                  <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
+                  <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
                   <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
               </div>
               </div>
@@ -43,20 +44,20 @@
         <div class="collapse justify-content-center navbar-collapse" id="navbarTogglerDemo01">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php"><i class="fas fa-home fa-1x"></i><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   ABOUT US
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.html">ABOUT THE FOUNDATION</a>
+                  <a class="dropdown-item" href="about.php">ABOUT THE FOUNDATION</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="vision.html">VISION AND MISSION</a>
+                  <a class="dropdown-item" href="vision.php">VISION AND MISSION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="team.html">OUR TEAM</a>
+                  <a class="dropdown-item" href="team.php">OUR TEAM</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="partner.html">PARTNER</a>
+                  <a class="dropdown-item" href="partner.php">PARTNER</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">ANNUAL REPORT</a>
                 </div>
@@ -66,13 +67,13 @@
                 OUR WORK
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="education.html">EDUCATION</a>
+                  <a class="dropdown-item" href="education.php">EDUCATION</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="liveli.html">LIVELIHOOD</a>
+                  <a class="dropdown-item" href="liveli.php">LIVELIHOOD</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="advoca.html">ADVOCACY</a>
+                  <a class="dropdown-item" href="advoca.php">ADVOCACY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="pre.html">PERSPECTIVE ON ELA</a>
+                  <a class="dropdown-item" href="pre.php">PERSPECTIVE ON ELA</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -80,9 +81,9 @@
                 GET INVOLVED
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="career.html">CAREER</a>
+                  <a class="dropdown-item" href="career.php">CAREER</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="career.html">VOLUNTEER</a>
+                  <a class="dropdown-item" href="career.php">VOLUNTEER</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -112,11 +113,11 @@
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">VIDEO GALLERY</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="award.html">AWARDS AND RECOGNITIONS</a>
+                  <a class="dropdown-item" href="award.php">AWARDS AND RECOGNITIONS</a>
                 </div>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">CONTACT US</a>
+              <a class="nav-link" href="contact.php">CONTACT US</a>
             </li>     
           </ul>
         </div>
