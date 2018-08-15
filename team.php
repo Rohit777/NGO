@@ -21,7 +21,7 @@
                 <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
             </span>
             <p>
-              <span>
+              <span class="update">
                 Will Be Updated Soon
               </span>
             </p>

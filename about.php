@@ -21,7 +21,7 @@
             <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
         </span>
         <p>
-          <span>
+          <span class="update">
             Will Be Updated Soon
           </span>
         </p>
@@ -34,7 +34,7 @@
               <div class="col-12">
                   <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
                   <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
-                  <a href="#" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
+                  <a href="donation.php" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
               </div>
               </div>
     </nav>
