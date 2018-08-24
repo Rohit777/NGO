@@ -179,6 +179,28 @@
         </a>
         </div>
       </div>
+
+
+<!-- popup
+========================================================= -->
+<div class="modal fade" id="onload" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="background-color:#8c2b00ed">
+        <button type="button"  class="close" data-dismiss="modal" aria-label="Close">
+          <span style="color:#fff;" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img src="image/kerla.jpeg" class="img-fluid" alt="Responsive image">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
             <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -216,7 +238,7 @@
           <li data-target="#myCarousel" data-slide-to="1"></li>        
         </ol>
         <div class="carousel-inner">
-          <div class="carousel-item active">
+          <div class="carousel-item story active">
             <div class="carousel-caption">
                 <img class="rounded-circle" src="image/jyoti.jpg" alt="Generic placeholder image" width="130" height="130">
               <h1>Jyoti</h1>
@@ -226,7 +248,7 @@
               <p><a class="btn btn-lg btn-primary" href="success.php" role="button">READ MORE</a></p>
             </div>         
            </div>
-          <div class="carousel-item">
+          <div class="carousel-item story">
             <div class="carousel-caption">
                 <img class="rounded-circle" src="image/Rahul.jpg" alt="Generic placeholder image" width="130" height="130">
               <h1>Rahul</h1>
@@ -311,7 +333,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-
+    <script src="script/popup.js"></script>
     <script src="script/sticky.js"></script>
   </body>
 </html>
