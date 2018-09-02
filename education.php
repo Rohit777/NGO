@@ -139,17 +139,23 @@
     <div class="content col-md-8">
         <h3 class="head">Education</h3>
         <p>
-            Education today has become the most crucial element for personal and social development.
-            It is the driving force behind social and gender equality and has proven to be elemental in gender
-            sensitization and alleviating poverty. While studies have shown that education has a direct correlation 
-            with income they have also highlighted the aspect that every higher level of education leads to an increase
-            of 10% increase in the income of girls. Today girls are the most disadvantaged section in terms of education.
-            The constant neglect towards them due to the patriarchal social order has pushed them into darkness and has 
-            psychologically weakened them. Education provides an overall development to both the individual and the society
-            by helping uplift them from poverty, making them aware about healthcare and inculcating a sense of collective 
-            responsibility towards each other.</br>
-            Our attempt is to empower these disadvantaged girls from the marginalized sections in India through education.
-        </p>        
+        Education is the most crucial element for personal and social development. It is the driving
+        force behind social and gender equality and has proven to be elemental in gender
+        sensitization and alleviating poverty. Over centuries women have been discriminated against
+        across cultures and nations. In India, it has had a particularly greater impact due to the caste
+        system engrained in the Indian society. It has resulted in dowry system, female feticide and
+        led to higher illiteracy among women. The constant neglect towards them due to the
+        patriarchal social order has pushed them into darkness and has psychologically weakened
+        them. Education has the potential to overcome such barriers. It provides an overall
+        development to both the individual and the society by helping uplift them from poverty,
+        making them aware about healthcare and inculcating a sense of collective responsibility
+        towards each other.</br>
+        Thus keeping in mind the socio-cultural position of a woman in our society, we are
+        determined to create an environment of equality of opportunities for the women of the
+        marginalized communities. To achieve this goal we focus on the young girls aged between
+        8-18 years as working with the girls from a younger age will help shape the woman of
+        tomorrow. It is our attempt to empower the disadvantaged girls from marginalized sections
+        in the Indian society through education.        </p>        
     </div>    
 </div>
 </div>
@@ -193,7 +199,8 @@
         	<div class="col-md-3 footer-ns animated fadeInRight">
               <div>
                   <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:white"></i></a> 
-                  <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>        
+                  <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>    
+                  <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:white"></i></a>      
                   </div>
             </div>
             </div>

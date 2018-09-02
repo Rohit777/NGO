@@ -140,15 +140,17 @@
     <div class="content col-md-8">
         <h3 class="head">Livelihood</h3>
         <p>
-            Livelihood is effective in improving the living conditions and economic status of the marginalized communities.
-            It is a means of making a living and helps them evolve. It empowers them economically thus leading to positive
-            change in their social indicators by widening their access to healthcare services, educational services and other 
-            resources necessary for their overall social development and progress. The focus should be on capacity building, 
-            fostering networks, supporting SHGs and other small or medium enterprises, creating sustainable models for skill 
-            development and livelihood prospects.</br>
-            Our focus is towards identifying areas and communities and providing them with livelihood skills and generating
-            sustainable livelihoods, which are in accordance to their requirements and capabilities thus helping them in economic 
-            uplifting and social well-being.
+        Livelihood is effective in improving the living conditions and economic status of the
+        marginalized communities. It is a means of making a living and helps them evolve. It
+        empowers them economically thus leading to positive change in their social indicators by
+        widening their access to healthcare services, educational services and other resources
+        necessary for their overall social development and progress. The focus should be on
+        capacity building, fostering networks, supporting SHGs and other small or medium
+        enterprises, creating sustainable models for skill development and livelihood prospects.</br>
+        Our focus is towards identifying such areas and communities and providing them with
+        livelihood skills and generating sustainable livelihoods, which are in accordance to their
+        requirements and capabilities thus helping them in their economic upliftment and social well-
+        being.
         </p>        
     </div>    
 </div>
@@ -194,6 +196,7 @@
               <div>
                   <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:white"></i></a> 
                   <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>        
+                  <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:white"></i></a>  
                   </div>
             </div>
             </div>

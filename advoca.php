@@ -139,15 +139,21 @@
     <div class="content col-md-8">
         <h3 class="head">Advocacy</h3>
         <p>
-            The core of advocacy is the understanding of the capacity to make changes in the policies and its practice, 
-            which caters to change on a larger scale. Advocacy thus helps bridge the gap between the agency and the beneficiary. 
-            It provides the agencies with the opportunity and the platform to convey their message, through means of campaigning, 
-            to the communities and increase awareness about their rights and provisions.</br>
-            Through advocacy the marginalized communities and the society at large can be made aware, responsible and can be made 
-            capable towards the problems existing in the society, especially which are relevant to them, like gender and caste based 
-            discrimination, prevalent social, educational and economic inequality and many such issues.</br>
-            Our focus is to engage at policy level in our areas of work, namely Education and Livelihood, for a larger impact on the 
-            society by creating aware and informed citizens.    
+        The core of advocacy is the understanding of the capacity to make changes in the policies
+        and its practice, which caters to change on a larger scale. Advocacy thus helps bridge the
+        gap between the agency and the beneficiary. It provides the agencies with the opportunity
+        and the platform to convey their message, through means of campaigning, to the
+        communities and increase awareness about their rights and provisions.</br>
+        Through advocacy the marginalized communities and the society at large can be made
+        aware, responsible and can be made capable towards the problems existing in the society,
+        especially which are relevant to them, like gender and caste based discrimination, prevalent
+        social, educational and economic inequalities and many such issues.</br>
+        We engage both at the community and policy level for advocacy and campaigning. Working
+        at the community level exposes us to the challenges and obstacles faced by the girls and
+        women from the marginalized communities and our engagement at the policy level helps
+        incorporate solutions and opportunities relevant to the marginalized communities. This
+        approach helps make a larger impact on the society by creating aware and informed
+        citizens.   
         </p>        
     </div>    
 </div>
@@ -193,7 +199,8 @@
         	<div class="col-md-3 footer-ns animated fadeInRight">
               <div>
                   <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:white"></i></a> 
-                  <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>        
+                  <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>       
+                  <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:white"></i></a>   
                   </div>
             </div>
             </div>
