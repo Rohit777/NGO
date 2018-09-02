@@ -7,5 +7,4 @@ $headers = "From: webmaster@example.com" . "\r\n" .
 $subject = "My subject";
 mail($Email,$subject,$txt,$Message);
 header('index.php');
-
 ?>
