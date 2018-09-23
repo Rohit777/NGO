@@ -17,27 +17,21 @@
 <body>
     
   <header>
-    <nav class="navbar navbar-light bg-light top">
+  <nav class="navbar navbar-light bg-light top">
         <span class="navbar-text">
             <a href="index.php"><img class="logo" src="image\KANSHIRAM Foundation Logo.png" alt="logo"></a>
         </span>
-        <p>
-          <span class="update">
-            Will Be Updated Soon
-          </span>
-        </p>
-        <div class="row short">   
-          <div class="col-12">
+        <div class="row" >  
+          <div class="col-12" align="center">
                     <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:#3B5998"></i></a> 
                     <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:#FF0000"></i></a>
-                     <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:#0077b5"></i></a>              
+                    <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:#0077b5"></i></a>  
+                    <a href="https://twitter.com/KanshiramF" target = "_blank"><i class="fab fa-twitter-square fa-2x inline" style="color: #00aced"></i></a>            
+          </div>
+              <div class="col-12" align="center">
+                  <a href="donation.php" style="color:#8c2a00; font-weight:700; font-size:1.5rem;"><span>Donation</span></a>
               </div>
-              <div class="col-12">
-                  <a href="index.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Home</span></a>
-                  <a href="career.php" style="color:#8c2a00; margin-right:5px; font-weight:600;"><span>Career</span></a>
-                  <a href="donation.php" style="color:#8c2a00; font-weight:600;"><span>Donation</span></a>
-              </div>
-              </div>
+        </div>
     </nav>
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom" style="background-color: #8c2b00ed" id="stick">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -187,47 +181,47 @@
 
 <div class="container-fluid" style="background-color: #3c3d41;">
     <footer class="footer-bs">
-        <div class="row">
-        	<div class="col-md-3 footer-brand animated fadeInLeft">
-            	<h2>KWF</h2>
+    <div class="row">
+        	  <div class="col-md-3 footer-brand animated fadeInLeft">
+            	<h2>Kanshiram</h2>
                 <p>Kanshiram Welfare Foundation is a research and action based non-profit organization established in 2008.
                     It aims to extend the opportunities for marginalized section across various social groups within the society.</p>
                 <p>© 2018, Kanshiram Welfare Foundation, All rights reserved.</p>
             </div>
-        	<div class="col-md-4 footer-nav animated fadeInUp">
-            <div class="row">
-            	<div class="col-6">
-                    <ul class="pages">
-                        <li><a href="education.php">education</a></li>
-                        <li><a href="liveli.php">Livelihood</a></li>
-                        <li><a href="advoca.php">Advocacy</a></li>
-                        <li><a href="pre.php">PERSPECTIVE on ela</a></li>
-                    </ul>
+        	  <div class="col-md-5 footer-nav animated fadeInUp"> 
+              <div class="row">
+            	  <div class="col-6">
+                  <ul class="pages">
+                    <li><a href="education.php">education</a></li>
+                    <li><a href="liveli.php">Livelihood</a></li>
+                    <li><a href="advoca.php">Advocacy</a></li>
+                    <li><a href="pre.php">PERSPECTIVE on ela</a></li>
+                  </ul>
                 </div>
-            	<div class="col-6 bug">
-                    <ul class="list">
-                        <li><a href="about.php">About Us</a></li>
-                        <li><a href="contact.php">Contacts</a></li>
-                        <li><a href="team.php">Our Team</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
+                <div class="col-6 bug">
+                  <ul class="list">
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="contact.php">Contacts</a></li>
+                    <li><a href="team.php">Our Team</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                  </ul>
                 </div>
               </div>
             </div>
-        	<div class="col-md-2 footer-social animated fadeInDown">
-            	<h4>Follow Us</h4>
-            	<ul>
-                	<li><a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank">Facebook</a></li>
-                	<li><a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank">You tube</a></li>
-                </ul>
+        	  <div class="col-md-2 footer-social animated fadeInDown">
+              <h4>Follow Us</h4>
+              <ul>
+                <li><a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank">Facebook</a></li>
+                <li><a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank">You tube</a></li>
+              </ul>
             </div>
-        	<div class="col-md-3 footer-ns animated fadeInRight">
+            <div class="col-md-2 footer-ns animated fadeInRight">
               <div>
-                  <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:white"></i></a> 
-                  <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>  
-                  <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:white"></i></a>        
-                  </div>
-            </div>
+                <a href="https://www.facebook.com/pages/Kanshiram-Welfare-Foundation/163677117162571?fref=nf" target="_blank"><i class="fab fa-facebook-square fa-2x inline"  style="color:white"></i></a> 
+                <a href="https://www.youtube.com/channel/UCFxIJLpNrHBDYiPlCzVgl4A" target="_blank"><i class="fab fa-youtube fa-2x inline" style="color:white"></i></a>      
+                <a href="https://www.linkedin.com/in/kanshiram-welfare-foundation-587a71161" target = "_blank"><i class="fab fa-linkedin fa-2x inline" style="color:white"></i></a>              
+                <a href="https://twitter.com/KanshiramF" target = "_blank"><i class="fab fa-twitter-square fa-2x inline" style="color: white"></i></a>
+              </div>
             </div>
         </div>
     </footer>
