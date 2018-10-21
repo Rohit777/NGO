@@ -28,7 +28,7 @@
                     <a href="https://twitter.com/KanshiramF" target = "_blank"><i class="fab fa-twitter-square fa-2x inline" style="color: #00aced"></i></a>            
           </div>
               <div class="col-12" align="center">
-                  <a href="donation.php" style="color:#8c2a00; font-weight:700; font-size:1.5rem;"><span>Donation</span></a>
+                  <a href="donation.php" style="color:#8c2a00; font-weight:700; font-size:1.3rem;"><span>Donation</span></a>
               </div>
         </div>
     </nav>
@@ -133,7 +133,7 @@
                 <li><a href="team.php">our team</a></li>
                 <li><a href="#">partner</a></li>
                 <li><a href="#">annual report</a></li>
-                <li><a href="work.html">work area</a></li>
+                <li><a href="work.php">work area</a></li>
               </ul>
             </div>
           </li>
@@ -185,7 +185,7 @@
                     abuse etc.</p>      
       </div>
       <div>       
-        <h3 class="head">Jamui ditrict, Bihar</h3>
+        <h3 class="head">Jamui district, Bihar</h3>
              <p>Jamui, a district in the southern part of Bihar, is surrounded by the districts of
                     Lakhisarai, Banka and Munger and Nawada. Agriculture is the main occupation and
                     source of livelihood of the people of the district. The agricultural economy of Jamui is

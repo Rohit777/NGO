@@ -27,7 +27,7 @@
                     <a href="https://twitter.com/KanshiramF" target = "_blank"><i class="fab fa-twitter-square fa-2x inline" style="color: #00aced"></i></a>            
           </div>
               <div class="col-12" align="center">
-                  <a href="donation.php" style="color:#8c2a00; font-weight:700; font-size:1.5rem;"><span>Donation</span></a>
+                  <a href="donation.php" style="color:#8c2a00; font-weight:700; font-size:1.3rem;"><span>Donation</span></a>
               </div>
         </div>
     </nav>
