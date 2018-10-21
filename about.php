@@ -55,6 +55,8 @@
                   <a class="dropdown-item" href="partner.php">PARTNER</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">ANNUAL REPORT</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="work.html">WORK AREA</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -122,20 +124,26 @@
 </header>
 <div class="container" style="margin-bottom:150px;">
    <div class="row">
-      <div class="support-menu col-2.5">
+        <div class="support-menu col-3">
           <nav class="vertical">
-          <ul><li> 
-          <div><ul>
-          <li><a href="about.php">About the foundation</a></li>
-          <li><a href="vision.php">Vision and Mission</a></li>
-          <li><a href="team.php">our team</a></li>
-          <li><a href="#">partner</a></li>
-          <li><a href="#">annual report</a></li>
-          </ul></div></li>
-          </ul></nav></div>
+            <ul>
+              <li> 
+                <div>
+                  <ul>
+                    <li><a href="about.php">About the foundation</a></li>
+                    <li><a href="vision.php">Vision and Mission</a></li>
+                    <li><a href="team.php">our team</a></li>
+                    <li><a href="#">partner</a></li>
+                    <li><a href="#">annual report</a></li>
+                    <li><a href="work.html">work area</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </nav>
+        </div>
     <div class="content col-md-8">
 <p>
-    Kanshiram Welfare Foundation is a research and action based non-profit organization established in 2008.
     Kanshiram Welfare Foundation is a research and action based non-profit organization established in
     2008. It aims to extend the opportunities for marginalized section across various social groups within
     the society. It primarily works in the areas of Education, Livelihood and Advocacy. The Foundation is

@@ -131,6 +131,7 @@
                 <li><a href="team.php">our team</a></li>
                 <li><a href="#">partner</a></li>
                 <li><a href="#">annual report</a></li>
+                <li><a href="work.html">work area</a></li>
               </ul>
             </div>
           </li>
