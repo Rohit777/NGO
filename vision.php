@@ -55,6 +55,8 @@
                       <a class="dropdown-item" href="partner.php">PARTNER</a>
                         <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">ANNUAL REPORT</a>
+                      <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="work.php">WORK AREA</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
