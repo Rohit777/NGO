@@ -55,8 +55,6 @@
                       <a class="dropdown-item" href="partner.php">PARTNER</a>
                         <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">ANNUAL REPORT</a>
-                      <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="work.php">WORK AREA</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -71,6 +69,8 @@
                       <a class="dropdown-item" href="advoca.php">ADVOCACY</a>
                         <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="pre.php">PERSPECTIVE ON ELA</a>
+                      <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="work.php">WORK AREA</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -133,7 +133,6 @@
                 <li><a href="team.php">our team</a></li>
                 <li><a href="#">partner</a></li>
                 <li><a href="#">annual report</a></li>
-                <li><a href="work.html">work area</a></li>
               </ul>
             </div>
           </li>
