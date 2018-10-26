@@ -1,4 +1,5 @@
 <?php
+$title = "Awards  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
 

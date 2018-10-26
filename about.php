@@ -1,4 +1,6 @@
 <?php
+$page = "sidebar";
+$title = "About  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
 

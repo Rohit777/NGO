@@ -1,4 +1,6 @@
 <?php
+$page = "sidebar";
+$title = "Education  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
     <div class="container" style="margin-bottom:100px;">

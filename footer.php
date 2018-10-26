@@ -74,6 +74,7 @@
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="script/popup.js"></script>
     <script src="script/sticky.js"></script>
+    <script src="script/gallery.js"></script>
   </body>
 </html>
 

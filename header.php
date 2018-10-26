@@ -7,7 +7,16 @@
     <meta name="author" content="">
     
 
-    <title>Kanshiram Welfare Foundation</title>
+    <title>
+    <?php 
+      if(isset($title) && !empty($title)) { 
+        echo $title; 
+      } 
+      else { 
+        echo "Kanshiram Welfare Foundation"; 
+      } 
+    ?>
+    </title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -15,6 +24,19 @@
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/home.css" rel="stylesheet">
+    <link href="css/award.css" rel="stylesheet">
+    <?php
+    if (isset($page) && !empty($page)) {
+      if($page == "sidebar") {
+    ?>
+        <link href="css/sidebar.css" rel="stylesheet">
+    <?php
+      }
+      else{}
+    }
+    else {}
+    ?>
+    <link href="css/heading.css" rel="stylesheet">
   </head>
   <body>
 

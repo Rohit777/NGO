@@ -1,4 +1,5 @@
 <?php
+$title = "Team  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
     <div class="container">

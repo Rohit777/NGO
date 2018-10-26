@@ -1,4 +1,5 @@
 <?php
+$title = "Donation  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
 <div class="container" style="padding-top:3%; padding-bottom: 3%; text-align:center" >

@@ -1,4 +1,6 @@
 <?php
+$page = "sidebar";
+$title = "Perspective of ELA  | Kanshiram Welfare Foundation";
 include 'header.php';
 ?>
     <div class="container" style="margin-bottom:70px;">
