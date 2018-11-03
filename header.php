@@ -25,17 +25,24 @@
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/home.css" rel="stylesheet">
     <link href="css/award.css" rel="stylesheet">
+
     <?php
     if (isset($page) && !empty($page)) {
       if($page == "sidebar") {
     ?>
-        <link href="css/sidebar.css" rel="stylesheet">
+      <link href="css/sidebar.css" rel="stylesheet">
+    <?php
+      }
+      else if($page == "try"){
+    ?>
+      <link href="css/try.css" rel="stylesheet">
     <?php
       }
       else{}
     }
     else {}
     ?>
+
     <link href="css/heading.css" rel="stylesheet">
   </head>
   <body>
@@ -131,7 +138,7 @@
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">EVENTS</a>
                     <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">PHOTO GALLERY</a>
+                  <a class="dropdown-item" href="image.php">PHOTO GALLERY</a>
                     <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="#">VIDEO GALLERY</a>
                     <div class="dropdown-divider"></div>
