@@ -22,17 +22,6 @@
     margin-bottom: 10px; 
 }
 
-.first{
-    padding: 10px;
-}
-
-.second{
-    padding: 20px;
-}
-
-.third{
-    padding: 20px;
-}
 
 .success{
     margin: 20px;
@@ -40,14 +29,6 @@
 }
 
 
-p{
-    font-family: Ebrima;
-}
-body{
-    color: rgb(61, 61, 61);
-    background-color: fbf9ca5c;
-}
 
-h1,h2,h3,h4,h5{
-    font-family: Ebrima;
-}
+
+

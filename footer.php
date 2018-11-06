@@ -75,6 +75,7 @@
     <script src="script/popup.js"></script>
     <script src="script/sticky.js"></script>
     <script src="script/gallery.js"></script>
+    <script src="script/team.js"></script>
   </body>
 </html>
 

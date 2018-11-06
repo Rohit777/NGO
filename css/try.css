@@ -103,3 +103,43 @@
         transition: 1s ease
     }
     
+
+
+
+
+
+
+
+
+    /* ----------------------------------------team css ------------------------------------- */
+
+    
+.track-img{
+    margin: 10% 5% 5% 15%;
+    background-size: cover !important;
+}
+
+.modal-body{
+    text-align: justify;
+}
+
+.modal-name{
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+
+.third{
+    padding: 20px;
+}
+
+.name{
+    margin-top: 10px;
+}
+
+.title{
+    color:#8c2b00ed;
+    margin: 20px;
+    font-size: 2rem;
+    font-weight: 500;
+}
