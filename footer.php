@@ -22,7 +22,7 @@
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="contact.php">Contacts</a></li>
                         <li><a href="team.php">Our Team</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="privacy.php">Privacy Policy</a></li>
                     </ul>
                 </div>
               </div>

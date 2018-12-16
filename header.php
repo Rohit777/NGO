@@ -38,6 +38,11 @@
       <link href="css/try.css" rel="stylesheet">
     <?php
       }
+      else if($page == "privacy"){
+    ?>
+      <link href="css/privacy.css" rel="stylesheet">
+    <?php
+    }
       else{}
     }
     else {}
